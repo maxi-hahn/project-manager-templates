@@ -1,0 +1,9 @@
+{
+    "name": "Python FastAPI",
+    "category": "web_api",
+    "category_label": "Web API (backend)",
+    "language": "python",
+    "runtime": "python",
+    "description": "API REST con FastAPI, Uvicorn y Pydantic Settings",
+    "version": "1.0.0"
+}

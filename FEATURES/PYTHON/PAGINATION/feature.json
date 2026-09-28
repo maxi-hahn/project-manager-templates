@@ -1,0 +1,10 @@
+{
+    "name": "Pagination",
+    "category": "feature",
+    "language": "python",
+    "description": "Paginación de resultados para APIs REST",
+    "version": "1.0.0",
+    "compatible_with": [
+        "python_fastapi"
+    ]
+}

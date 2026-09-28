@@ -1,0 +1,16 @@
+{
+    "name": "Tailwind CSS",
+    "category": "technology",
+    "language": "javascript",
+    "description": "Framework de CSS utility-first",
+    "version": "1.0.0",
+    "compatible_with": [
+        "react_vite",
+        "react_vite_feature_based"
+    ],
+    "dependencies": [
+        "tailwindcss@^3.4.0",
+        "postcss@^8.4.0",
+        "autoprefixer@^10.4.0"
+    ]
+}

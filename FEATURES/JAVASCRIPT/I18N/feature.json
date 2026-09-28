@@ -1,0 +1,10 @@
+{
+    "name": "i18n",
+    "category": "feature",
+    "language": "javascript",
+    "description": "Internacionalización con i18next (español e inglés)",
+    "version": "1.0.0",
+    "compatible_with": [
+        "react_vite"
+    ]
+}

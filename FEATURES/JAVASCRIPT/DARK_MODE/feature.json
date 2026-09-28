@@ -1,0 +1,10 @@
+{
+    "name": "Dark Mode",
+    "category": "feature",
+    "language": "javascript",
+    "description": "Cambia de tema claro/oscuro con persistencia",
+    "version": "1.0.0",
+    "compatible_with": [
+        "react_vite"
+    ]
+}

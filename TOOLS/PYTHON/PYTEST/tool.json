@@ -1,0 +1,15 @@
+{
+    "name": "Pytest",
+    "category": "tool",
+    "language": "python",
+    "description": "Framework para testing en Python",
+    "version": "1.0.0",
+    "dependencies": [
+        "pytest>=8.0.0"
+    ],
+    "commands": [
+        {
+            "command": ["python", "-m", "pip", "install", "pytest"]
+        }
+    ]
+}

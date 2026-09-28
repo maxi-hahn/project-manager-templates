@@ -1,0 +1,14 @@
+{
+    "name": "SQLAlchemy",
+    "category": "technology",
+    "language": "python",
+    "description": "ORM con SQLAlchemy y Alembic para manejo de base de datos",
+    "version": "1.0.0",
+    "compatible_with": [
+        "python_fastapi"
+    ],
+    "dependencies": [
+        "sqlalchemy",
+        "alembic"
+    ]
+}

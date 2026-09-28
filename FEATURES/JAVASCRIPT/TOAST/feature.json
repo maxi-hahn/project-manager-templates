@@ -1,0 +1,10 @@
+{
+    "name": "Toast Notifications",
+    "category": "feature",
+    "language": "javascript",
+    "description": "Sistema de notificaciones tipo toast",
+    "version": "1.0.0",
+    "compatible_with": [
+        "react_vite"
+    ]
+}

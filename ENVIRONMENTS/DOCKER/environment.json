@@ -1,0 +1,19 @@
+{
+    "name": "Docker",
+    "category": "environment",
+    "description": "Containerización con Docker y Docker Compose",
+    "version": "1.0.0",
+    "compatible_with": [
+        "python_fastapi",
+        "react_vite",
+        "react_vite_feature_based"
+    ],
+    "files_by_language": {
+        "python": "python/Dockerfile",
+        "javascript": "node/Dockerfile"
+    },
+    "default_ports": {
+        "python": 8000,
+        "javascript": 5173
+    }
+}

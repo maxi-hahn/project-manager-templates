@@ -1,0 +1,11 @@
+{
+    "name": "Prettier",
+    "category": "tool",
+    "language": "javascript",
+    "description": "Formateador de código automático",
+    "version": "1.0.0",
+    "dependencies": [
+        "prettier"
+    ],
+    "commands": []
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Python Basic",
+    "category": "cli",
+    "category_label": "CLI (línea de comandos)",
+    "language": "python",
+    "runtime": "python",
+    "description": "Plantilla base para aplicaciones Python",
+    "version": "1.0.0"
+}

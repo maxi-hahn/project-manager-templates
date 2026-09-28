@@ -1,0 +1,10 @@
+{
+    "name": "Axios Client",
+    "category": "feature",
+    "language": "javascript",
+    "description": "Cliente HTTP configurado con Axios e interceptores",
+    "version": "1.0.0",
+    "compatible_with": [
+        "react_vite"
+    ]
+}

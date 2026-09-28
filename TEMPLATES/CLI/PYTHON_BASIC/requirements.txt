@@ -1,0 +1,3 @@
+# Dependencias del proyecto.
+# Agregá aquí los paquetes necesarios, por ejemplo:
+# requests==2.32.5

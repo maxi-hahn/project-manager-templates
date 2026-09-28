@@ -1,0 +1,26 @@
+/* ============================================================
+   TEMAS CLARO Y OSCURO
+   ============================================================
+   Define variables CSS que cambian según el tema.
+   El atributo [data-theme] se establece en <html>.
+   ============================================================ */
+
+:root {
+    --bg-color: #ffffff;
+    --text-color: #333333;
+    --accent-color: #0066cc;
+    --border-color: #dddddd;
+}
+
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --accent-color: #4da6ff;
+    --border-color: #444444;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}

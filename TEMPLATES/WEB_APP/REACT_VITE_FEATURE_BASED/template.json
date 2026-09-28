@@ -1,0 +1,10 @@
+{
+    "name": "React Vite Feature-Based",
+    "category": "web_app",
+    "category_label": "Web App (frontend)",
+    "language": "javascript",
+    "runtime": "node",
+    "description": "Estructura profesional con features organizadas por dominio",
+    "version": "1.0.0",
+    "requires": ["node"]
+}

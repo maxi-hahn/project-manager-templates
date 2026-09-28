@@ -1,0 +1,10 @@
+{
+    "name": "React Router",
+    "category": "feature",
+    "language": "javascript",
+    "description": "Navegación con React Router",
+    "version": "1.0.0",
+    "compatible_with": [
+        "react_vite"
+    ]
+}
